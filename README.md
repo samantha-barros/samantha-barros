@@ -20,6 +20,6 @@
   <a href="https://web.digitalinnovation.one/users/samanthaalexandre?tab=achievements" target="_blank"><img src="https://img.shields.io/badge/DIO-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@samanthaalexandre" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/samantha-alexandre/samantha-alexandre/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/samantha-barros/about-me/blob/output/github-contribution-grid-snake.svg)
  
 </div>

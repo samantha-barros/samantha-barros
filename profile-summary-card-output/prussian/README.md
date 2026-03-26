@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/samantha-barros/samantha-barros/main/profile-summary-card-output/prussian/4-productive-time.svg)
-```
-
-    
